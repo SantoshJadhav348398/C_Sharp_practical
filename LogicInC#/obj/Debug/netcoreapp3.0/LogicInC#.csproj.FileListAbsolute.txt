@@ -1,0 +1,11 @@
+D:\C_Sharp_Data\C_Sharp_practical\LogicInC#\bin\Debug\netcoreapp3.0\LogicInC#.exe
+D:\C_Sharp_Data\C_Sharp_practical\LogicInC#\bin\Debug\netcoreapp3.0\LogicInC#.deps.json
+D:\C_Sharp_Data\C_Sharp_practical\LogicInC#\bin\Debug\netcoreapp3.0\LogicInC#.runtimeconfig.json
+D:\C_Sharp_Data\C_Sharp_practical\LogicInC#\bin\Debug\netcoreapp3.0\LogicInC#.runtimeconfig.dev.json
+D:\C_Sharp_Data\C_Sharp_practical\LogicInC#\bin\Debug\netcoreapp3.0\LogicInC#.dll
+D:\C_Sharp_Data\C_Sharp_practical\LogicInC#\bin\Debug\netcoreapp3.0\LogicInC#.pdb
+D:\C_Sharp_Data\C_Sharp_practical\LogicInC#\obj\Debug\netcoreapp3.0\LogicInC#.csprojAssemblyReference.cache
+D:\C_Sharp_Data\C_Sharp_practical\LogicInC#\obj\Debug\netcoreapp3.0\LogicInC#.AssemblyInfoInputs.cache
+D:\C_Sharp_Data\C_Sharp_practical\LogicInC#\obj\Debug\netcoreapp3.0\LogicInC#.AssemblyInfo.cs
+D:\C_Sharp_Data\C_Sharp_practical\LogicInC#\obj\Debug\netcoreapp3.0\LogicInC#.dll
+D:\C_Sharp_Data\C_Sharp_practical\LogicInC#\obj\Debug\netcoreapp3.0\LogicInC#.pdb
